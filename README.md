@@ -1,7 +1,7 @@
 # Acc-Streaming-V13
 All Copyright By SmSm
 
-<img src = "https://discord.c99.nl/widget/theme-2/349942964904001546.png"></div>
+<img src = "https://cdn.discordapp.com/attachments/837245653276950538/1007588852476682263/image3.jpeg"></div>
 
 Best Account Streaming Project V13  
 Dont Forget Give 🌟 Project And Thank You All
@@ -16,8 +16,7 @@ Just Open ``config.json`` file and types tells you all the information how to us
 
 # Link My Discord Servers
 
-[Progrees Home](https://discord.gg/JjUc7G7kwV)
 
-[Zero Devlopers](https://discord.gg/7MaVp5HCSh)
+[Devil Staff](https://discord.gg/CMj93ASrJx)
 
-<a href="https://discord.gg/RMEQSbMtEk"><img src="https://discord.com/api/guilds/496754973883760650/widget.png?style=banner3"></a>
+<a href="https://cdn.discordapp.com/attachments/837245653276950538/1007588852476682263/image3.jpeg"></a>
